@@ -23,27 +23,19 @@ You can see the code written and generated in this repository as well as the Mod
 
 Below you can see some images of the Model:
 
-Root:
-![image](https://user-images.githubusercontent.com/45895132/181147181-5c83bb2e-f897-43eb-8627-78d5bb5e03d6.png)
+![image](https://user-images.githubusercontent.com/45895132/181148475-88fb6196-4235-473c-b0bf-5be0ef50d536.png)
 
-Scheduler:
-![image](https://user-images.githubusercontent.com/45895132/181147952-9e670491-ab29-4e21-9921-272ebe8e16d2.png)
+![image](https://user-images.githubusercontent.com/45895132/181148601-57e2a254-a569-4637-90ac-00b388290fbb.png)
 
-Inputs:
-![image](https://user-images.githubusercontent.com/45895132/181147819-567836a0-e195-4e3d-9fe6-f2dbbb7d603f.png)
+![image](https://user-images.githubusercontent.com/45895132/181148692-9c478f34-f9f9-4d58-90e9-d091cb9d1acd.png)
 
-Inputs:Function-call Subsystem:
-![image](https://user-images.githubusercontent.com/45895132/181147890-3d1c7f23-d718-4d19-9bce-8d383d8176f3.png)
+![image](https://user-images.githubusercontent.com/45895132/181148851-76459b23-0fc5-4c49-bcc3-c6c410d6dbd6.png)
 
-Main Function:
-![image](https://user-images.githubusercontent.com/45895132/181147277-5224972b-8020-4b89-babb-ec6db994e1e8.png)
+![image](https://user-images.githubusercontent.com/45895132/181148897-ce5d3041-bea9-4781-8f5c-b70f11212b4d.png)
 
-Main Function:Function-call Subsystem:
-![image](https://user-images.githubusercontent.com/45895132/181147347-1b57b9c7-eb19-44a7-a2c9-908bff47c72b.png)
+![image](https://user-images.githubusercontent.com/45895132/181148993-909ea567-4f44-4cd8-a8f2-edd7527de106.png)
 
-Outputs:
-![image](https://user-images.githubusercontent.com/45895132/181147410-f80d5ab9-df7a-4486-92b9-e2432db06004.png)
+![image](https://user-images.githubusercontent.com/45895132/181149113-59d7cda7-ec60-44e7-ab54-8551cec3fecf.png)
 
-Outputs:Function-call Subsystem:
-![image](https://user-images.githubusercontent.com/45895132/181147489-cc772ace-7688-4f55-ae3d-7d10f97f4d95.png)
+![image](https://user-images.githubusercontent.com/45895132/181149200-b9d19ae8-5ae9-493c-8b73-cb9840d6700d.png)
 
