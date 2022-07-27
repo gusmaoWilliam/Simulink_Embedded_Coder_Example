@@ -21,6 +21,22 @@ There is two files called "Interface.cpp" and "Interface.h" to connect the Softw
 
 You can see the code written and generated in this repository as well as the Model.
 
+Files written manually:
+- Simulink_code.ino
+- Tasks.cpp
+- Tasks.h
+- Interface.cpp
+- Interface.h
+
+Files generated from Simulink:
+- BlinkLED.c
+- BlinkLED.h
+- BlinkLED_private.h
+- BlinkLED_types.h
+- rtmodel.h
+- rtwtypes.h
+
+
 Below you can see some images of the Model:
 
 ![image](https://user-images.githubusercontent.com/45895132/181148475-88fb6196-4235-473c-b0bf-5be0ef50d536.png)
